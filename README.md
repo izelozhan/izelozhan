@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning React!<br>🎯 Goals: Learn more!<br>🎲 Fun fact: I love playing video games! Currently playing Baldurs Gate3!</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning React!<br>🎯 Goals: Learn more!<br>🎲 Fun fact: I love playing video games! Currently playing Baldurs Gate3!</p>
 
 ###
 
