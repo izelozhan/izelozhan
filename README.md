@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Izel and I'm a Frontend Developer.</p>
+<p align="left">My name is Izel and I am a passionate/self-taught front-end developer. </p>
 
 ###
 
