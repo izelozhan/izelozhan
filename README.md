@@ -12,7 +12,7 @@ I'm currently focusing on advancing my skills in React and Next.js, while also b
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Shopify!<br>🎯 Goals: Learn more!<br>🎲 Fun fact: I love playing video games! Currently playing Baldurs Gate3! <br>📫 How to reach me izelozhan@gmail.com</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning AWS Amplify!<br>🎯 🎲 Fun fact: I love playing video games! Currently playing Baldurs Gate3! <br>📫 How to reach me izelozhan@gmail.com</p>
 
 ###
 <h2 align="left">Connect with me:</h2>
