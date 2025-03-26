@@ -2,9 +2,13 @@
 
 ###
 
-<p align="left">Self-taught and passionate Frontend Developer based in Houston, TX. I love creating user-friendly web experiences that make a difference.🌟
+<p align="left"> I thrive on crafting seamless, user-friendly web experiences. I specialize in React, Angular, and TypeScript, bringing designs to life with Tailwind, Bootstrap, and Angular Material. Turning Figma designs into functional, pixel-perfect interfaces is something I truly enjoy.
 
-I'm currently focusing on advancing my skills in React and Next.js, while also being proficient in Angular, Angular Material, JavaScript (including TypeScript), REST APIs, and CSS frameworks like Tailwind and Bootstrap. I enjoy translating Figma designs into captivating web interfaces. </p>
+Currently, I’m learning Java through Year Up United and expanding my expertise in backend development with Java and SQL databases, aiming to become a Full-Stack Developer.
+
+If you’re passionate about Frontend Development, Full-Stack, or creating impactful digital experiences, let’s connect!
+
+ </p>
 
 ###
 
