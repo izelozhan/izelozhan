@@ -16,7 +16,7 @@ If you’re passionate about Frontend Development, Full-Stack, or creating impac
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning AWS Amplify!<br>🎯 🎲 Fun fact: I love playing video games! Currently playing Baldurs Gate3! <br>📫 How to reach me izelozhan@gmail.com <br> Portfolio https://izelozhan.github.io/</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Java!<br>🎯 🎲 Fun fact: I love playing video games! Currently playing Baldurs Gate3! <br>📫 How to reach me izelozhan@gmail.com <br> Portfolio https://izelozhan.github.io/</p>
 
 ###
 <h2 align="left">Connect with me:</h2>
