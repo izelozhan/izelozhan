@@ -2,11 +2,9 @@
 
 ###
 
-<p align="left"> I thrive on crafting seamless, user-friendly web experiences. I specialize in React, Angular, and TypeScript, bringing designs to life with Tailwind, Bootstrap, and Angular Material. Turning Figma designs into functional, pixel-perfect interfaces is something I truly enjoy.
+<p align="left"> As a self-taught developer, I thrive on transforming ideas into seamless, user-friendly web experiences. With expertise in React, Angular, and TypeScript, I bring Figma designs to life using Tailwind, Bootstrap, and Angular Material, ensuring pixel-perfect, responsive interfaces.
 
-Currently, I’m learning Java through Year Up United and expanding my expertise in backend development with Java and SQL databases, aiming to become a Full-Stack Developer.
-
-If you’re passionate about Frontend Development, Full-Stack, or creating impactful digital experiences, let’s connect!
+Currently, I’m expanding my skills in Java and SQL through Year Up United, diving into backend development to become a well-rounded Full-Stack Developer. Beyond coding, I enjoy optimizing workflows, enhancing UI/UX, and building scalable applications that make an impact.
 
  </p>
 
@@ -16,7 +14,7 @@ If you’re passionate about Frontend Development, Full-Stack, or creating impac
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Java!<br>🎯 🎲 Fun fact: I love playing video games! Currently playing Baldurs Gate3! <br>📫 How to reach me izelozhan@gmail.com <br> Portfolio https://izelozhan.github.io/</p>
+<p align="left">✨ Creating bugs since 2021<br> 🎲 Fun fact: I love playing video games! Currently playing Baldurs Gate3! <br>📫 How to reach me izelozhan@gmail.com <br> Portfolio https://izelozhan.github.io/</p>
 
 ###
 <h2 align="left">Connect with me:</h2>
@@ -25,7 +23,7 @@ If you’re passionate about Frontend Development, Full-Stack, or creating impac
 </p>
 
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I Code With</h2>
 
 ###
 
@@ -51,6 +49,26 @@ If you’re passionate about Frontend Development, Full-Stack, or creating impac
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
    <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  
+</div>
+
+###
+
+<h2 align="left">Currently Learning </h2>
+
+###
+
+<div align="left">
+ 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrain logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  
   
 </div>
 
