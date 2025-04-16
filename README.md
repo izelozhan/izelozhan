@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"> Currently advancing my backend skills in Java and SQL through Year Up United, I’m a self-taught developer passionate about turning ideas into intuitive, responsive web apps. Skilled in React, Angular, and TypeScript, I bring Figma designs to life with Tailwind, Bootstrap, and Angular Material—creating seamless, pixel-perfect interfaces that scale.
+<p align="left"> I’m currently learning Java and SQL through Year Up United to grow on the backend side. As a self-taught developer, I enjoy turning ideas into clean, user-friendly interfaces using React, Angular, and TypeScript. I bring Figma designs to life with Tailwind, Bootstrap, or Angular Material—always aiming for responsive and polished results.
 
  </p>
 
