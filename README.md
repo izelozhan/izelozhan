@@ -1,16 +1,6 @@
 <h1 align="left">Hi! I'm Izel Ozhan👋</h1>
 
-###
 
-<p align="left">I am currently expanding my backend skills through Year Up United, focusing on Java and SQL. I have experience creating user interfaces using React, Angular, and TypeScript. I’ve worked on translating Figma designs into responsive, user-friendly websites, using frameworks like Tailwind, Bootstrap, and Angular Material to ensure polished, high-quality results.
-
-</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
 
 <p align="left">✨ Creating bugs since 2021<br> 🎲 Fun fact: I love playing video games! Currently playing Baldurs Gate3! <br>📫 How to reach me izelozhan@gmail.com <br> Portfolio https://izelozhan.github.io/</p>
 
@@ -47,6 +37,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
    <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" /> 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="40" alt="spring boot logo" />
   
 </div>
 
@@ -58,15 +54,8 @@
 
 <div align="left">
  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrain logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="40" alt="spring boot logo" />
+ 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" height="40" alt="swift logo" />
 
   
   
