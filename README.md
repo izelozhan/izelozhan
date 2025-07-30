@@ -11,7 +11,7 @@
 </p>
 
 
-<h2 align="left">I Code With</h2>
+<h2 align="left">I code with:</h2>
 
 ###
 
@@ -48,7 +48,7 @@
 
 ###
 
-<h2 align="left">Currently Learning </h2>
+<h2 align="left">Currently learning:</h2>
 
 ###
 
